@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-09-09T08:50:45.442Z" agent="5.0 (Linux; Android 9; SAMSUNG SM-A105F) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/11.2 Chrome/75.0.3770.143 Mobile Safari/537.36" etag="JckSDxyyGOlzv1Ck6LJV" version="13.6.9" type="github">
+<mxfile host="app.diagrams.net" modified="2020-09-09T08:53:16.687Z" agent="5.0 (Linux; Android 9; SAMSUNG SM-A105F) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/11.2 Chrome/75.0.3770.143 Mobile Safari/537.36" etag="ulQOes3ZPmoPM8UB3OjS" version="13.6.9" type="github">
   <diagram id="DASJKnx0P65O3IHvTqYv" name="Page-1">
-    <mxGraphModel dx="378" dy="657" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="445" dy="773" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -11,13 +11,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="UERTb_GsQLjUCMV_EsCh-4" value="Начало" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="130" y="20" width="120" height="80" as="geometry" />
+          <mxGeometry x="130" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="UERTb_GsQLjUCMV_EsCh-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="UERTb_GsQLjUCMV_EsCh-5" target="UERTb_GsQLjUCMV_EsCh-7" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="UERTb_GsQLjUCMV_EsCh-5" value="&amp;nbsp;Ms1[i][j] ms2[b]" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
-          <mxGeometry x="130" y="150" width="120" height="60" as="geometry" />
+        <mxCell id="UERTb_GsQLjUCMV_EsCh-5" value="&amp;nbsp;Ms1[i][j], ms2[b], n, m" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
+          <mxGeometry x="120" y="100" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="UERTb_GsQLjUCMV_EsCh-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="UERTb_GsQLjUCMV_EsCh-7" target="UERTb_GsQLjUCMV_EsCh-9" edge="1">
           <mxGeometry relative="1" as="geometry" />
