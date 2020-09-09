@@ -1,14 +1,17 @@
-<mxfile host="app.diagrams.net" modified="2020-09-09T08:33:43.088Z" agent="5.0 (Linux; Android 9; SAMSUNG SM-A105F) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/11.2 Chrome/75.0.3770.143 Mobile Safari/537.36" etag="nk6oYusXwexc2yi9qg5V" version="13.6.9" type="github">
+<mxfile host="app.diagrams.net" modified="2020-09-09T08:50:45.442Z" agent="5.0 (Linux; Android 9; SAMSUNG SM-A105F) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/11.2 Chrome/75.0.3770.143 Mobile Safari/537.36" etag="JckSDxyyGOlzv1Ck6LJV" version="13.6.9" type="github">
   <diagram id="DASJKnx0P65O3IHvTqYv" name="Page-1">
     <mxGraphModel dx="378" dy="657" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="UERTb_GsQLjUCMV_EsCh-7" value="i=0,i&amp;gt;n,i++" style="shape=loopLimit;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="140" y="270" width="100" height="80" as="geometry" />
+        </mxCell>
         <mxCell id="UERTb_GsQLjUCMV_EsCh-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="UERTb_GsQLjUCMV_EsCh-4" target="UERTb_GsQLjUCMV_EsCh-5" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="UERTb_GsQLjUCMV_EsCh-4" value="Начало" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="130" width="120" height="80" as="geometry" />
+          <mxGeometry x="130" y="20" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="UERTb_GsQLjUCMV_EsCh-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="UERTb_GsQLjUCMV_EsCh-5" target="UERTb_GsQLjUCMV_EsCh-7" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -19,47 +22,43 @@
         <mxCell id="UERTb_GsQLjUCMV_EsCh-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="UERTb_GsQLjUCMV_EsCh-7" target="UERTb_GsQLjUCMV_EsCh-9" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="UERTb_GsQLjUCMV_EsCh-7" value="i=0,i&amp;gt;" style="shape=loopLimit;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="140" y="270" width="100" height="80" as="geometry" />
-        </mxCell>
         <mxCell id="UERTb_GsQLjUCMV_EsCh-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="UERTb_GsQLjUCMV_EsCh-9" target="UERTb_GsQLjUCMV_EsCh-11" edge="1">
           <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="UERTb_GsQLjUCMV_EsCh-9" value="" style="shape=display;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="150" y="390" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="UERTb_GsQLjUCMV_EsCh-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="UERTb_GsQLjUCMV_EsCh-11" target="UERTb_GsQLjUCMV_EsCh-13" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="UERTb_GsQLjUCMV_EsCh-11" value="" style="shape=manualInput;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="UERTb_GsQLjUCMV_EsCh-11" value="ms[i]" style="shape=manualInput;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="150" y="490" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="UERTb_GsQLjUCMV_EsCh-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="UERTb_GsQLjUCMV_EsCh-13" target="UERTb_GsQLjUCMV_EsCh-16" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="UERTb_GsQLjUCMV_EsCh-13" value="" style="shape=loopLimit;whiteSpace=wrap;html=1;direction=west;" parent="1" vertex="1">
-          <mxGeometry x="140" y="630" width="100" height="80" as="geometry" />
+          <mxGeometry x="140" y="600" width="100" height="80" as="geometry" />
         </mxCell>
         <mxCell id="UERTb_GsQLjUCMV_EsCh-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="UERTb_GsQLjUCMV_EsCh-24" target="UERTb_GsQLjUCMV_EsCh-20" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="UERTb_GsQLjUCMV_EsCh-16" value="" style="shape=loopLimit;whiteSpace=wrap;html=1;direction=east;" parent="1" vertex="1">
+        <mxCell id="UERTb_GsQLjUCMV_EsCh-16" value="i=0,i&amp;lt;m,i++" style="shape=loopLimit;whiteSpace=wrap;html=1;direction=east;" parent="1" vertex="1">
           <mxGeometry x="140" y="730" width="100" height="80" as="geometry" />
         </mxCell>
         <mxCell id="UERTb_GsQLjUCMV_EsCh-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="UERTb_GsQLjUCMV_EsCh-20" target="UERTb_GsQLjUCMV_EsCh-22" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="UERTb_GsQLjUCMV_EsCh-20" value="" style="shape=manualInput;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="UERTb_GsQLjUCMV_EsCh-20" value="ms[j]" style="shape=manualInput;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="150" y="910" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="UERTb_GsQLjUCMV_EsCh-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="UERTb_GsQLjUCMV_EsCh-22" target="UERTb_GsQLjUCMV_EsCh-26" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="UERTb_GsQLjUCMV_EsCh-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="UERTb_GsQLjUCMV_EsCh-22" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="190" y="1160" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="UERTb_GsQLjUCMV_EsCh-22" value="" style="shape=loopLimit;whiteSpace=wrap;html=1;direction=west;" parent="1" vertex="1">
           <mxGeometry x="140" y="1040" width="100" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="UERTb_GsQLjUCMV_EsCh-24" value="" style="shape=display;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="150" y="840" width="80" height="40" as="geometry" />
+        <mxCell id="UERTb_GsQLjUCMV_EsCh-24" value="Введите значение элементов столбца" style="shape=display;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="150" y="830" width="80" height="60" as="geometry" />
         </mxCell>
         <mxCell id="UERTb_GsQLjUCMV_EsCh-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="UERTb_GsQLjUCMV_EsCh-16" target="UERTb_GsQLjUCMV_EsCh-24" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -67,11 +66,10 @@
             <mxPoint x="190" y="910" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="UERTb_GsQLjUCMV_EsCh-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="UERTb_GsQLjUCMV_EsCh-26" target="UERTb_GsQLjUCMV_EsCh-28" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="UERTb_GsQLjUCMV_EsCh-26" value="" style="shape=loopLimit;whiteSpace=wrap;html=1;direction=east;" parent="1" vertex="1">
-          <mxGeometry x="140" y="1160" width="100" height="80" as="geometry" />
+        <mxCell id="UERTb_GsQLjUCMV_EsCh-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" target="UERTb_GsQLjUCMV_EsCh-28" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="190" y="1240" as="sourcePoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="UERTb_GsQLjUCMV_EsCh-31" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="UERTb_GsQLjUCMV_EsCh-28" target="UERTb_GsQLjUCMV_EsCh-30" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -87,6 +85,12 @@
         </mxCell>
         <mxCell id="UERTb_GsQLjUCMV_EsCh-32" value="Конец" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="130" y="1590" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="UERTb_GsQLjUCMV_EsCh-9" value="Введите значение элементов строки" style="shape=display;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="150" y="390" width="80" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="7jCfOhP625vKt7DdmSx1-1" value="I=0,i&amp;lt;n,i++" style="shape=loopLimit;whiteSpace=wrap;html=1;direction=east;" vertex="1" parent="1">
+          <mxGeometry x="140" y="1160" width="110" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
